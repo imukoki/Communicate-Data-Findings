@@ -1,4 +1,9 @@
 # Communicate-Data-Findings
+
+## Investigation
+
+> In this investigation, I wanted to find out the factors that affect the original loan amount using the [Prosper Loan Dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv). The features in the dataset which helped support my investigation into the original loan amount are income range, loan status, monthly income, income verifiable, months since origination, origination quarter, origination date, is borrower homeowner, term, borrow rate, listing category and monthly loan payment. 
+
 ## Dataset
 
 > There are 113,937 loans in the dataset with 81 variables. Most variables are numeric in nature. The dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) and the feature documentation can be found [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
