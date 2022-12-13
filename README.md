@@ -15,11 +15,11 @@
 - [Investigation](#Investigation)
 - [Dataset](#Dataset)
 - [Summary of Findings](#Summary-of-Findings)
-- [Key Insights for Presentation](#Key Insights for Presentation)
-- [Notebooks](#notebooks)
-- [HTML](#HTML)
-- [Summary_Findings](#Findings)
-- [Key_Insights](#Insights)
+- [Key Insights for Presentation](#Key-Insights-for-Presentation)
+- [Installation](#Installation)
+- [Requirements](#Requirements)
+- [Author](#Author)
+- 
 
 
 ## Investigation
@@ -39,7 +39,7 @@
 > It was discovered that original loan amount and monthly loan payment have a strong relationship. It was further discovered that this relationship is even stronger if only one term is used for each plot since the scatter plot for original loan amount and monthly loan payment was split into 3 sections using the term represented by different colors. The other numerical features did not have a strong relationship with original loan amount which is the feature of interest and these other features do not have any strong relationship between them. It was also observed that the original loan amount generally increases if the income is verifiable, the borrower is a homeowner and the term to payback the loan is longer.
 
 
-## Key Insights for Presentation
+## Key-Insights-for-Presentation
 
 > The insights that were obtained from this investigation is that generally the number of loans issued decrease as the original loan amount increases with some peaks happening in-between. It was also observed that only original loan amount and monthly loan payment have a strong relationship, the rest of the features have a weak relationship. Generally there is an increase in the average original loan amount as the years progress. It was observed that the scatter plot of original loan amount against monthly loan payment was split into 3 sections using the terms and that each section had a linear relationship. The slope of the linear relationship increased as the term became long which means that as the term becomes longer, the borrower pays less money per month. It was observed that the average original loan amount increases as the term becomes longer. The general trend shows that the average original amount increases as the the time progresses for the 12 and 36 month terms whilst it first decreases then increases for the 60 month term.
 
