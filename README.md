@@ -4,7 +4,7 @@
    </a>
 </p>
 <h3 align="center"><a href='https://www.udacity.com/course/data-analyst-nanodegree--nd002'> Udacity Data Analyst Nanodegree </a></h3>
-<h4 align="center">Project  3: Communicate-Data-Findings</h4>
+
 
 # Communicate-Data-Findings
 
