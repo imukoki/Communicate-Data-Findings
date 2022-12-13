@@ -19,7 +19,6 @@
 - [Installation](#Installation)
 - [Requirements](#Requirements)
 - [Author](#Author)
-- 
 
 
 ## Investigation
