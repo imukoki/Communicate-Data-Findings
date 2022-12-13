@@ -14,7 +14,7 @@
 
 - [Investigation](#Investigation)
 - [Dataset](#Dataset)
-- [Summary of Findings](#Summary of Findings)
+- [Summary of Findings](#'Summary of Findings')
 - [Key Insights for Presentation](#Key Insights for Presentation)
 - [Notebooks](#notebooks)
 - [HTML](#HTML)
