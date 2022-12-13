@@ -8,6 +8,18 @@
 
 # Communicate-Data-Findings
 
+**Table of content**
+
+- [Project Overview](#Project_Overview)
+- [Installation](#installation)
+- [Requirements](#Requirements)
+- [Data](#data)
+- [Notebooks](#notebooks)
+- [HTML](#HTML)
+- [Summary_Findings](#Findings)
+- [Key_Insights](#Insights)
+
+
 ## Investigation
 
 > In this investigation, I wanted to find out the factors that affect the original loan amount using the [Prosper Loan Dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv). The features in the dataset which helped support my investigation into the original loan amount are income range, loan status, monthly income, income verifiable, months since origination, origination quarter, origination date, is borrower homeowner, term, borrow rate, listing category and monthly loan payment. 
@@ -28,3 +40,25 @@
 ## Key Insights for Presentation
 
 > The insights that were obtained from this investigation is that generally the number of loans issued decrease as the original loan amount increases with some peaks happening in-between. It was also observed that only original loan amount and monthly loan payment have a strong relationship, the rest of the features have a weak relationship. Generally there is an increase in the average original loan amount as the years progress. It was observed that the scatter plot of original loan amount against monthly loan payment was split into 3 sections using the terms and that each section had a linear relationship. The slope of the linear relationship increased as the term became long which means that as the term becomes longer, the borrower pays less money per month. It was observed that the average original loan amount increases as the term becomes longer. The general trend shows that the average original amount increases as the the time progresses for the 12 and 36 month terms whilst it first decreases then increases for the 60 month term.
+
+
+## Installation 
+```
+git clone https://github.com/imukoki/Communicate-Data-Findings
+cd Communicate-Data-Findings
+jupyter notebook 
+```
+
+## Requirements
+
+* pandas 
+* numpy 
+* Matplotlib
+* Seaborn
+
+## Author
+
+👤 **Innocent Mukoki**
+
+- GitHub: [Innocent Mukoki](https://github.com/imukoki)
+- LinkedIn: [Innocent Mukoki](https://www.linkedin.com/in/innocent-mukoki/)
