@@ -10,12 +10,12 @@
 <h3 align="center"><a href='https://www.udacity.com/course/data-analyst-nanodegree--nd002'> Udacity Data Analyst Nanodegree </a></h3>
 
 
-**Table of content**
+**Table of contents**
 
-- [Project Overview](#Project_Overview)
-- [Installation](#installation)
-- [Requirements](#Requirements)
-- [Data](#data)
+- [Investigation](#Investigation)
+- [Dataset](#Dataset)
+- [Summary of Findings](#Summary of Findings)
+- [Key Insights for Presentation](#Key Insights for Presentation)
 - [Notebooks](#notebooks)
 - [HTML](#HTML)
 - [Summary_Findings](#Findings)
