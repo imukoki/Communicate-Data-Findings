@@ -1,6 +1,3 @@
-
-# Project 3: Communicate-Data-Findings
-
 <h1 align="center">Project  3: Communicate-Data-Findings</h1>
 <p align="center">
   <a href="https://www.udacity.com/">
