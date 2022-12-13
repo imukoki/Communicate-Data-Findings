@@ -14,7 +14,7 @@
 
 - [Investigation](#Investigation)
 - [Dataset](#Dataset)
-- [Summary of Findings](#'Summary of Findings')
+- [Summary of Findings](#Summary-of-Findings)
 - [Key Insights for Presentation](#Key Insights for Presentation)
 - [Notebooks](#notebooks)
 - [HTML](#HTML)
@@ -32,7 +32,7 @@
 
 
 
-## Summary of Findings
+## Summary-of-Findings
 
 > Many loans are issued in the last and first quarter, in the last quarter it is because of the festive season and in the first quarter it is because people would have spent too much money during the festive season and need to borrow money. As your monthly income becomes higher the more likely you are to be given a loan.
 
